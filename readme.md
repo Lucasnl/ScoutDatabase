@@ -12,10 +12,10 @@
  - profileIconID : o Id do icone que o jogador esta usando para ser mostrado na consulta
  - summonerID : O id de invocador do jogador ele é unico por região
  - summonerName :O nome de invocador que foi buscado (se ele não for encontrado pela api é claro que ele não é salvo e o usuário recebe um erro)
- -accountID : o id da conta do jogador , também é unico por região
- -player: é o nome real do jogador(é apenas um Post , não vem da Api)  que é obrigatório ao cadastrar o summonerName
- -puuid : é o id da conta  , ele é unico globalmente (é o id dos Ids)
- -region : região da onde a conta vem (por enquanto está setado padrão brasil)
+	 - accountID : o id da conta do jogador , também é unico por região
+ - player: é o nome real do jogador(é apenas um Post , não vem da Api)  que é obrigatório ao cadastrar o summonerName
+ - puuid : é o id da conta  , ele é unico globalmente (é o id dos Ids)
+ - region : região da onde a conta vem (por enquanto está setado padrão brasil)
  
 <img src ="https://i.imgur.com/wtiCorw.png" />
 
